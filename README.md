@@ -1,4 +1,3 @@
-
 # ArUco Marker Detection
 ## Installation 🚀
 
